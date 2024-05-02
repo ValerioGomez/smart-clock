@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/vales/OneDrive/Documentos/GitHub/smart-clock/codigo",
-      "program": "c:/Users/vales/OneDrive/Documentos/GitHub/smart-clock/codigo/build/Debug/outDebug",
+      "cwd": "c:/Users/vales/OneDrive/Documentos/GitHub/smart-clock",
+      "program": "c:/Users/vales/OneDrive/Documentos/GitHub/smart-clock/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
